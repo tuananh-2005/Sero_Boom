@@ -1,0 +1,19 @@
+# Bỏ qua các thư mục Unity tự tạo
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+.vscode/
+UserSettings/
+
+# Bỏ qua file build
+Build/
+*.apk
+*.exe
+
+# Bỏ qua file hệ thống & Visual Studio
+*.csproj
+*.sln
+.DS_Store
+Thumbs.db
